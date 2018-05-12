@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2093
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Noyes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30687#The-Lord-of-Misrule-and-Other-Poems
 gutenberg_issued: '2009-12-16'
 gutenberg_type: Text
 identifiers:
