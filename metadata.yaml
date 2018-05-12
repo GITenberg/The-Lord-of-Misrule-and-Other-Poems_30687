@@ -1,0 +1,35 @@
+_repo: The-Lord-of-Misrule-and-Other-Poems_30687
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nichols, Spencer Baird
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '34757'
+    url: http://www.gutenberg.org/2009/agents/34757
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Noyes, Alfred
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '2093'
+    url: http://www.gutenberg.org/2009/agents/2093
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Noyes
+description: ''
+gutenberg_issued: '2009-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30687'
+  lccn: '15023327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: The Lord of Misrule, and Other Poems
+url: http://www.gutenberg.org/ebooks/30687
